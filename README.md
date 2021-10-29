@@ -1,5 +1,5 @@
 # martini_mod
-Modifications made to Martini FF according to published parameters
+Lipid tail parameters added to Martini2.2 FF according to published parameters
 
 
 Modifications:
