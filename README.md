@@ -1,4 +1,7 @@
 >Note: 
+>##### The original 'insane.py' script was created by:
+>- Tsjerk A. Wassenaar, Helgi I. Ingólfsson, Rainer A. Böckmann, D. Peter Tieleman, and Siewert J. Marrink
+>  - Paper: [Computational Lipidomics with insane: A Versatile Tool for Generating Custom Membranes for Molecular Simulations](https://pubs.acs.org/doi/10.1021/acs.jctc.5b00209)
 >##### The original 'martini_v2.2_aminoacids.itp' topology was created by:
 >- D.H. de Jong, G. Singh, W.F.D. Bennet, C. Arnarez, T.A. Wassenaar, L.V. Schafer, X. Periole, D.P. Tieleman, S.J. Marrink.
 >  - Paper: [Improved Parameters for the Martini Coarse-Grained Protein Force Field](https://pubs.acs.org/doi/10.1021/ct300646g)
