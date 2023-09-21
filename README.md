@@ -1,5 +1,5 @@
 #### [ 1 ] - Modified insane.py script:
-- insane-jan2023.py
+- `insane-jan2023.py`
 
 >##### Note: 
 >##### The original 'insane.py' script was created by:
@@ -9,8 +9,8 @@
 ----
 
 #### [ 2 ] - Acylated amino acid parameters (update to Martini 2.2 ff) are included in the following files:
-- martini_v2.2_aminoacids_lipidtails.itp
-- martinize2.6_lipidtails.py
+- `martini_v2.2_aminoacids_lipidtails.itp`
+- `martinize2.6_lipidtails.py`
 
 Each of the above files are updated with the following acylated amino acid parameters according to 
 [Yoav Atsmon-Raz and D. Peter Tieleman, 2017 (J. Phys. Chem. B)](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b10175)
@@ -28,8 +28,8 @@ Each of the above files are updated with the following acylated amino acid param
 ----
 
 #### [ 3 ] - N-acetyl glucosamine-Asparagine parameters (update to Martini 2.2 ff) are included in the following files:
-- martini_v2.2_aminoacids_lipidtails_ASG.itp
-- martinize2.6_lipidtails_ASG.py
+- `martini_v2.2_aminoacids_lipidtails_ASG.itp`
+- `martinize2.6_lipidtails_ASG.py`
 
 where ASG = N-acetyl glucosamine-Asn
 
